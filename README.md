@@ -28,14 +28,10 @@
 <div align="center">
   <p><b>Lenguajes</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,java,cs&theme=dark" alt="Frontend y Lenguajes" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,python,fastapi,django,flask,java,spring,cs,dotnet&theme=dark" alt="Lenguajes" />
   </a>
-
-  <br><br>
-
-  <p><b>Bases de Datos, Sistemas & Herramientas</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,git,github&theme=dark" alt="Bases de Datos y Herramientas" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,cloudflare,firebase,vercel,netlify,linux,visualstudio,vscode,pycharm,idea,git,github&theme=dark" alt="Bases de Datos y Herramientas" />
   </a>
 </div>
 
