@@ -81,15 +81,3 @@
 </div>
 
 <br><br>
-
-<!-- Proyectos Destacados -->
-<h2 align="center">FEATURED PROJECTS</h2>
-
-<div align="center">
-
-| Proyecto | Descripción | Enlace |
-| :--- | :--- | :---: |
-| **DETECH** | Landing page y portafolio interactivo para servicios digitales independientes. | [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-00FF99?style=flat-square&logo=github&logoColor=black)](#) |
-| **Despliegue Industrial** | Sitio web comercial para el sector de maquinaria con dominio personalizado. | [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-00FF99?style=flat-square&logo=github&logoColor=black)](#) |
-
-</div>
