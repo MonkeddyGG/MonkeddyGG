@@ -45,7 +45,7 @@
 <h2 align="center">GITHUB ANALYTICS & LANGUAGES</h2>
 
 <div align="center">
-  <!-- Esta imagen se generará automáticamente con tu Action de Metrics -->
+  
   <img src="https://raw.githubusercontent.com/MonkeddyGG/MonkeddyGG/main/metrics.svg" alt="GitHub Metrics" width="80%" />
 </div>
 
