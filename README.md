@@ -1,8 +1,8 @@
 <!-- Presentación con efecto Máquina de Escribir (Arriba del Banner) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=12000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=19&duration=3500&pause=1000&color=A9B2C3&center=true&vCenter=true&width=900&lines=Estudiante+de+Ing.+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n+y+Comunicaciones;Freelancer+en+Desarrollo+Web;%26+Apasionado+por+la+Tecnolog%C3%ADa" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=19&duration=3500&pause=3000&color=A9B2C3&center=true&vCenter=true&width=900&lines=Estudiante+de+Ing.+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n+y+Comunicaciones;Freelancer+en+Desarrollo+Web;%26+Apasionado+por+la+Tecnolog%C3%ADa" alt="Subtitle Typing" />
 </div>
 
 <br>
@@ -50,13 +50,7 @@
 
 <div align="center">
   <!-- General Stats -->
-  <a href="https://github.com/MonkeddyGG">
-    <img src="https://github-readme-stats.vercel.app/api?username=MonkeddyGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <!-- Top Languages -->
-  <a href="https://github.com/MonkeddyGG">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeddyGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </a>
+ 
 </div>
 
 <br>
