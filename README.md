@@ -1,22 +1,29 @@
-<!-- Presentación con efecto Máquina de Escribir y Azul Neón -->
+<!-- Banner Separador Animado -->
+
+<!-- Presentación con efecto Máquina de Escribir y Naranja Neón -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF7F00&center=true&vCenter=true&width=600&lines=<+Hola,+soy+Eddy+/>" alt="Title Typing" />
 </div>
 
-<!-- Subtítulo separado en 3 secciones tecnológicas -->
-<h3 align="center">
-  <code>> Estudiante Ing. en Tecnologías de la Información y Comunicaciones</code> <br><br>
-  <code>> Freelancer en Desarrollo Web</code> <br><br>
-  <code>> Apasionado por la Tecnología</code>
-</h3>
+<!-- Subtítulo limpio -->
+<h4 align="center">
+ <br> <code>> Estudiante Ing. en Tecnologías de la Información y Comunicaciones</code>  
+ <br> <code>> Freelancer en Desarrollo Web</code>  
+ <br> <code>> Apasionado por la Tecnología</code>
+</h4>
+
+<br>
 
 <!-- Botones de Contacto y Perfil -->
 <div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://tu-sitio-web.com">
+    <img src="https://img.shields.io/badge/DETECH_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FF7F00" alt="Website"/>
   </a>
 </div>
 
@@ -30,6 +37,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,python,fastapi,django,flask,java,spring,cs,dotnet&theme=dark" alt="Lenguajes" />
   </a>
+  <br><br>
+  <p><b>Bases de Datos y Herramientas</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,cloudflare,firebase,vercel,netlify,linux,visualstudio,vscode,pycharm,idea,git,github&theme=dark" alt="Bases de Datos y Herramientas" />
   </a>
@@ -37,20 +46,19 @@
 
 <br><br>
 
-<!-- Estadísticas Detalladas y Lenguajes (NUEVO METRICS) -->
+<!-- Estadísticas Detalladas (Métricas y Racha) -->
 <h2 align="center">GITHUB ANALYTICS & LANGUAGES</h2>
 
 <div align="center">
-  
   <img src="https://raw.githubusercontent.com/MonkeddyGG/MonkeddyGG/main/metrics.svg" alt="GitHub Metrics" width="80%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Streak Stats (Racha de Contribuciones - La que sí funciona) -->
+  <!-- Streak Stats (Racha de Contribuciones) -->
   <a href="https://github.com/MonkeddyGG">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeddyGG&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeddyGG&theme=dark&hide_border=true&background=0D1117&fire=FF7F00&currStreakNum=FF7F00&currStreakLabel=FF7F00&totalStreakNum=FF7F00&totalStreakLabel=FF7F00&totalCntNum=FF7F00&totalCntLabel=FF7F00&streakLabel=FF7F00&streakNum=FF7F00" alt="GitHub Streak Stats" width="80%" />
   </a>
 </div>
 
@@ -67,4 +75,7 @@
   </picture>
 </div>
 
-<br><br>
+<!-- Banner Separador Inferior -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/orange.png" width="100%" alt="Separador Orange">
+</div>
