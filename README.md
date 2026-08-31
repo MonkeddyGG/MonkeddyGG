@@ -10,8 +10,6 @@
   <code>> Apasionado por la Tecnología</code>
 </h3>
 
-<br>
-
 <!-- Botones de Contacto y Perfil -->
 <div align="center">
   <a href="https://linkedin.com">
@@ -22,20 +20,13 @@
   </a>
 </div>
 
-<br><br>
-
-<!-- Banner GIF de Código -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkMlzVK88/giphy.gif" alt="Code Banner" width="100%" height="240" style="object-fit: cover; border-radius: 8px;"/>
-</div>
-
-<br><br>
+<br>
 
 <!-- Stack Tecnológico Categorizado -->
 <h2 align="center">TECH STACK</h2>
 
 <div align="center">
-  <p><b>Lenguajes & Frontend</b></p>
+  <p><b>Lenguajes</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,java,cs&theme=dark" alt="Frontend y Lenguajes" />
   </a>
