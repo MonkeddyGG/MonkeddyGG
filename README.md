@@ -16,13 +16,13 @@
 
 <!-- Botones de Contacto y Perfil -->
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/diego-edgar-tellez-estañon-318b43288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:dieddytellezestanon@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://tu-sitio-web.com">
+  <a href="https://detech-dev.vercel.app/">
     <img src="https://img.shields.io/badge/DETECH_Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FF7F00" alt="Website"/>
   </a>
 </div>
