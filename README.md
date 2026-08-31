@@ -1,8 +1,8 @@
 <!-- Presentación con efecto Máquina de Escribir (Arriba del Banner) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=12000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=18000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=19&duration=3500&pause=3000&color=A9B2C3&center=true&vCenter=true&width=900&lines=Estudiante+de+Ing.+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n+y+Comunicaciones;Freelancer+en+Desarrollo+Web;%26+Apasionado+por+la+Tecnolog%C3%ADa" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=19&duration=2500&pause=3000&color=A9B2C3&center=true&vCenter=true&width=900&lines=Estudiante+de+Ing.+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n+y+Comunicaciones;Freelancer+en+Desarrollo+Web;%26+Apasionado+por+la+Tecnolog%C3%ADa" alt="Subtitle Typing" />
 </div>
 
 <br>
