@@ -1,3 +1,4 @@
+<!-- Presentación con efecto Máquina de Escribir (Arriba del Banner) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
   <br>
@@ -6,6 +7,7 @@
 
 <br>
 
+<!-- Botones de Contacto y Perfil -->
 <div align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,12 +19,14 @@
 
 <br><br>
 
+<!-- Banner GIF de Código -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnkMlzVK88/giphy.gif" alt="Code Banner" width="100%" height="240" style="object-fit: cover; border-radius: 8px;"/>
 </div>
 
 <br><br>
 
+<!-- Stack Tecnológico Categorizado -->
 <h2 align="center">TECH STACK</h2>
 
 <div align="center">
@@ -41,12 +45,15 @@
 
 <br><br>
 
+<!-- Estadísticas Detalladas de GitHub -->
 <h2 align="center">GITHUB ANALYTICS</h2>
 
 <div align="center">
+  <!-- General Stats -->
   <a href="https://github.com/MonkeddyGG">
     <img src="https://github-readme-stats.vercel.app/api?username=MonkeddyGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   </a>
+  <!-- Top Languages -->
   <a href="https://github.com/MonkeddyGG">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeddyGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
   </a>
@@ -55,6 +62,7 @@
 <br>
 
 <div align="center">
+  <!-- Streak Stats (Racha de Contribuciones) -->
   <a href="https://github.com/MonkeddyGG">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeddyGG&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="97%" />
   </a>
@@ -62,16 +70,7 @@
 
 <br><br>
 
-<h2 align="center">ACHIEVEMENTS</h2>
-
-<div align="center">
-  <a href="https://github.com/MonkeddyGG">
-    <img src="https://github-profile-trophy.vercel.app/?username=MonkeddyGG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br><br>
-
+<!-- Animación de la Serpiente de Contribuciones -->
 <h2 align="center">CONTRIBUTION GRAPH</h2>
 
 <div align="center">
@@ -84,6 +83,7 @@
 
 <br><br>
 
+<!-- Proyectos Destacados -->
 <h2 align="center">FEATURED PROJECTS</h2>
 
 <div align="center">
