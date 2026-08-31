@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MonkeddyGG
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
