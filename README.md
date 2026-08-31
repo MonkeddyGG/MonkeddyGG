@@ -1,9 +1,14 @@
-<!-- Presentación con efecto Máquina de Escribir (Arriba del Banner) -->
+<!-- Presentación con efecto Máquina de Escribir y Azul Neón -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=18000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=19&duration=2500&pause=3000&color=A9B2C3&center=true&vCenter=true&width=900&lines=Estudiante+de+Ing.+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n+y+Comunicaciones;Freelancer+en+Desarrollo+Web;%26+Apasionado+por+la+Tecnolog%C3%ADa" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Eddy" alt="Title Typing" />
 </div>
+
+<!-- Subtítulo separado en 3 secciones tecnológicas -->
+<h3 align="center">
+  <code>> Estudiante Ing. en Tecnologías de la Información y Comunicaciones</code> <br><br>
+  <code>> Freelancer en Desarrollo Web</code> <br><br>
+  <code>> Apasionado por la Tecnología</code>
+</h3>
 
 <br>
 
@@ -45,20 +50,20 @@
 
 <br><br>
 
-<!-- Estadísticas Detalladas de GitHub -->
-<h2 align="center">GITHUB ANALYTICS</h2>
+<!-- Estadísticas Detalladas y Lenguajes (NUEVO METRICS) -->
+<h2 align="center">GITHUB ANALYTICS & LANGUAGES</h2>
 
 <div align="center">
-  <!-- General Stats -->
- 
+  <!-- Esta imagen se generará automáticamente con tu Action de Metrics -->
+  <img src="https://raw.githubusercontent.com/MonkeddyGG/MonkeddyGG/main/metrics.svg" alt="GitHub Metrics" width="80%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Streak Stats (Racha de Contribuciones) -->
+  <!-- Streak Stats (Racha de Contribuciones - La que sí funciona) -->
   <a href="https://github.com/MonkeddyGG">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeddyGG&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="97%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeddyGG&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="80%" />
   </a>
 </div>
 
